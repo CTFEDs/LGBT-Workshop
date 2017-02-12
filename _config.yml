@@ -1,0 +1,27 @@
+# Site settings
+title: LGBT Hackathon February 2017
+baseurl: "/LGBT-workshop"
+
+markdown: kramdown
+permalink: :title/
+
+navigation:
+ - title: LGBT Hackathon February 2017
+   url: index.html
+
+exclude: [
+    'node_modules',
+    'bower_components',
+    'Gruntfile.js',
+    'package.json',
+    'bower.json',
+    'requirements.txt',
+    'Gemfile',
+    'Gemfile.lock',
+    'README.md',
+    'sass',
+    'js',
+    'coffee',
+    'env',
+    'tmp'
+]
