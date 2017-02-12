@@ -1,6 +1,6 @@
 # Site settings
 title: LGBT Hackathon February 2017
-baseurl: "/LGBT-workshop"
+baseurl: "/LGBT-hackathon"
 
 markdown: kramdown
 permalink: :title/
