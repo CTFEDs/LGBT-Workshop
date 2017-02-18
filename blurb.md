@@ -17,7 +17,7 @@ The workshop will start at 9am sharp. Please arrive promptly because it will be 
 
 ## About the facilitators
 
-Dani, Justin, and Steve organise the CTFEDs monthly meetups and will be helping you help make some sites better. You can [read more about them on the CTFEDs site](ctfeds.org/organisers).
+Dani, Justin, and Steve organise the CTFEDs monthly meetups and will be helping you help make some sites better. You can [read more about them on the CTFEDs site](http://ctfeds.org/organisers).
 
 ---
 
