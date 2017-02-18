@@ -9,15 +9,15 @@ We'll form teams based on the site that we want to work on and the mix of skills
 
 The workshop will start at 9am sharp. Please arrive promptly because it will be a packed day. Thank you! :)
 
-## About the facilitators
-
-Dani, Justin, and Steve organise the CTFEDs monthly meetups and will be helping you help make some sites better. You can [read more about them on the CTFEDs site](ctfeds.org/organisers).
-
 ## About you
 
 - You should be **familiar with HTML and CSS**. Some knowledge of JavaScript will probably come in handy too.
 -  WordPress is a popular choice for the Content Management Systems of some of the sites we'll be looking at, so **familiarity with WordPress** (and with editing Themes and Plugins) will be useful.
 - Bring **your laptop** and charger.
+
+## About the facilitators
+
+Dani, Justin, and Steve organise the CTFEDs monthly meetups and will be helping you help make some sites better. You can [read more about them on the CTFEDs site](ctfeds.org/organisers).
 
 ---
 
