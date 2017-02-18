@@ -3,7 +3,7 @@ layout: page
 title: LGBT Hackathon blurb
 ---
 
-This month on CTFEDs we're having a hackathon. We'll be working the sites of a handful of local LGBT organisations to help make them better. We'll be  focusing on Front-end performance: making the sites better, faster, and cheaper for their users.
+This month on CTFEDs we're having a hackathon. We'll be working the sites of a handful of local LGBT organisations to help make them better. We'll be  focusing on Front-end performance: making the sites better, faster, and cheaper for their users. (We're still figuring out which sites we'll be working on)
 
 We'll form teams based on the site that we want to work on and the mix of skills and experience we have. We'll benchmark the sites and decide what to work on.
 
