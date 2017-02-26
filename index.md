@@ -27,6 +27,8 @@ Based on:
 - site you want to work on;
 - good mix of skills and experience in the team.
 
+[Printable team sheets to put stickies on to](https://docs.google.com/document/d/1oi2orR6LCwdaDwcsvHo6fzfD4AOCyEesH06e_kQBPcA/edit?usp=sharing).
+
 ## Benchmark
 
 Run the site through:
@@ -43,6 +45,8 @@ Run the site through:
         - Capture Video: true
 
 **Note**: If you you're using the [WebPageTest API Wrapper for NodeJS](https://www.npmjs.com/package/webpagetest) and have an API key you can run `webpagetest test <url> --key $WPT_API_KEY --location "Dulles_MotoG" --connectivity "3G" --runs "5" --video` or `webpagetest test <url>  -k $WPT_API_KEY -l "Dulles_MotoG" -y "3G" -r "5" -v`.
+
+[Printable Benchmark sheet](https://docs.google.com/document/d/1ZJc2UyCnmlcY1QZSAOAHbftAe3KUhRAB3sFYi0GI1B4/edit?usp=sharing).
 
 ## Mini Kanban
 
