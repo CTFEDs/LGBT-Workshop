@@ -106,13 +106,15 @@ As automatic as possible
 
 ---
 
-## Add stickies to **Options ✋** from Benchmark observations
-## Small things<br>(1 hour at most!)
+## Add stickies to **Options ✋**
+## **Small** things
+## **One thing** at a time
 
 ![](img/stickynotes.jpg)
 
-^ 1 hour? Break it into pieces
+^ 1 hour at most. Break it into pieces.
 Want to **finish** things, not start things
+Just CSS or just JS, not both at the same time
 
 ---
 
