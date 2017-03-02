@@ -100,6 +100,12 @@ As automatic as possible
 
 ---
 
+## **Constraints! 🙅**
+## Don't change content
+## Don't change design
+
+---
+
 ## Add stickies to **Options ✋** from Benchmark observations
 ## Small things<br>(1 hour at most!)
 
