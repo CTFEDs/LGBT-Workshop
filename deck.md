@@ -50,6 +50,7 @@ A thing that makes you go yay
 ![](img/crowd.jpg)
 
 ^ The PDF source: https://docs.google.com/document/d/1oi2orR6LCwdaDwcsvHo6fzfD4AOCyEesH06e_kQBPcA/edit?usp=sharing
+Have posters on walls
 
 ---
 
@@ -128,7 +129,7 @@ Repeat until awesome.
 
 ---
 
-## **5m break**
+## **10m break**
 
 ## What's one thing you've learned so far?
 ## Tell 2 people
@@ -144,6 +145,14 @@ Repeat until awesome.
 
 ---
 
-# Next steps
+# Next steps?
 
 ^ ??? 🙀
+
+---
+
+# SMART goal
+
+---
+
+# ✌
