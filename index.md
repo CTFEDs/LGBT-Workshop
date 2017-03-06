@@ -62,6 +62,24 @@ Run the site through:
     - Repeat until awesome.
 
 
---
+---
+
+## Photos
+
+### Activities
+
+Why are you here?
+
+[![](img/thumbs/why-are-you-here.jpg)](img/why-are-you-here.jpg)
+
+What's one thing you've learned so far?
+
+[![](img/thumbs/one-thing-youve-learned-so-far.jpg)](img/one-thing-youve-learned-so-far.jpg)
+
+### Action shots
+
+[![](img/thumbs/workshop1.jpg)](img/workshop1.jpg) [![](img/thumbs/workshop2.jpg)](img/workshop2.jpg)
+
+---
 
 Attendees must read and follow our [Code of Conduct](http://ctfeds.org/code-of-conduct/). Thanks! :)
