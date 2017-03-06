@@ -14,6 +14,8 @@ Rough outline for the day.
 7. Just before the end of the hackathon, run the benchmarks again.
 8. Closing: next steps.
 
+The slide deck: [Deckset](http://www.decksetapp.com/)-flavoured [markdown](deck.md); [PDF](deck.pdf) (5.5MB)
+
 ## Opening
 
 - Why are we doing this?
